@@ -1,0 +1,27 @@
+{
+  "name": "josaTT-JSPatterns",
+  "version": "1.0.0",
+  "description": "JOSA TechTalks - JS Patterns & Frameworks",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rashad612/josaTT-JSPatterns.git"
+  },
+  "keywords": [
+    "meetup"
+  ],
+  "author": "Rashad Majali <rashad.612@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rashad612/josaTT-JSPatterns/issues"
+  },
+  "homepage": "http://www.meetup.com/JOSA-TechTalks/events/219374144/",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "underscore": "^1.7.0"
+  }
+}
